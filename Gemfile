@@ -1,3 +1,4 @@
+source 'https://rubygems.org' 
 
 group :site do
   gem "html-proofer", "~> 3.4" if ENV["PROOF"]
