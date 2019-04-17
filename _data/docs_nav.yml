@@ -1,15 +1,15 @@
-- title: Getting Started
+- title: Python
   docs:
     - link: /docs/
     - link: /docs/ruby-101/
     - link: /docs/installation/
     - link: /docs/community/
     - link: /docs/step-by-step/01-setup/
-- title: Build
+- title: PHP
   docs:
     - link: /docs/usage/
     - link: /docs/configuration/
-- title: Content
+- title: Bash
   docs:
     - link: /docs/pages/
     - link: /docs/posts/
@@ -18,7 +18,7 @@
     - link: /docs/datafiles/
     - link: /docs/assets/
     - link: /docs/static-files/
-- title: Site Structure
+- title: Git
   docs:
     - link: /docs/structure/
     - link: /docs/liquid/
@@ -28,7 +28,7 @@
     - link: /docs/permalinks/
     - link: /docs/themes/
     - link: /docs/pagination/
-- title: Guides
+- title: Javascript
   docs:
     - link: /docs/plugins/
     - link: /docs/migrations/

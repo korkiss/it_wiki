@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Ресурсы
 permalink: /resources/
 redirect_from:
  - /docs/resources/

@@ -253,7 +253,7 @@ footer {
 }
 
 @media (min-width: 569px) {
-  .intro p { font-size: 3.2em; }
+  .intro p { font-size: 3.0em; }
 }
 
 /* Quickstart */
@@ -1228,4 +1228,9 @@ code.output {
 
 ol div.highlighter-rouge {
   margin: 8px 0 10px 0;
+}
+
+cite {
+  display: block;
+  text-align: right;
 }

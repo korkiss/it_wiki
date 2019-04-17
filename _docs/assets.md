@@ -18,6 +18,8 @@ name (one of `.sass`, `.scss`, or `.coffee`) and
   font-size: 1.2em
 ```
 
+Как это выглядит по русскиы.
+
 Jekyll treats these files the same as a regular page, in that the output file
 will be placed in the same directory that it came from. For instance, if you
 have a file named `css/styles.scss` in your site's source folder, Jekyll
@@ -25,8 +27,8 @@ will process it and put it in your site's destination folder under
 `css/styles.css`.
 
 <div class="note info">
-  <h5>Jekyll processes all Liquid filters and tags in asset files</h5>
-  <p>If you are using <a href="https://mustache.github.io">Mustache</a>
+  <h5>Джекил processes all Liquid filters and tags in asset files</h5>
+  <p>Изучение программирования If you are using <a href="https://mustache.github.io">Mustache</a>
      or another JavaScript templating language that conflicts with
      the <a href="/docs/templates/">Liquid template syntax</a>, you
      will need to place <code>{&#37; raw &#37;}</code> and

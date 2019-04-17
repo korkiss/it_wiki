@@ -1,15 +1,12 @@
-- title: Home
+- title: Главная
   link: /
   show_on_mobile: true
-- title: Docs
+- title: Материалы
   link: /docs/
   show_on_mobile: true
-- title: Resources
+- title: Ресурсы
   link: /resources/
   show_on_mobile: true
-- title: Showcase
-  link: /showcase/
-  show_on_mobile: false
-- title: News
-  link: /news/
+- title: Уроки
+  link: /lessons/
   show_on_mobile: true
